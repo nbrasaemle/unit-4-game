@@ -1,2 +1,3 @@
 # unit-4-game
-crystal collector game, random numbers being added up to make the original random number
+Clicking random numbers to add up to make the original random number
+The theme is form the Lord of the Rings, and it is called Reunite the Fellowship

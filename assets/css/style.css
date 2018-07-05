@@ -1,0 +1,60 @@
+body {
+    background-image: url("../images/wood_1_@2X.png")
+}
+
+.row {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.jumbotron {
+    background-color: rgba(61, 255, 255, 0.671);
+    text-align: center;
+    
+}
+
+.lead{
+    line-height: 1.5;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+
+
+/* To get text over the images */
+.numberImage {
+    position: relative;
+    text-align: center;
+    margin:auto;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+/* To make the images responsive to screen width*/
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.btn {
+    background-color: rgba(61, 255, 255, 0.288);
+}
+
+.btn:hover{
+    background-color: rgba(61, 255, 255, 0.671);
+}
